@@ -26,7 +26,7 @@ $> npm install
 $> npm run dev
 ```
 
-### With NPM - Development
+### With NPM - Production
 
 ```
 $> npm install
